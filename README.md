@@ -1,6 +1,8 @@
 # Truckers
 
-Ce service a pour but de traquer les messages de chauffeurs liés à leurs itinéraires, rendez-vous, livraisons, etc.
+Ce service a pour but de traquer les messages de chauffeurs liés à leurs itinéraires, rendez-vous, livraisons, etc. Cette application mobile synchronise les messages stockés avec un API REST.
+
+![img](https://github.com/coperency/Truckers_mobile/blob/main/readme_images/truckers_schema.png?raw=true)
 
 ## Ajout du Fichier Défaut
 
